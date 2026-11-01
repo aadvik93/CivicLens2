@@ -1,0 +1,4 @@
+project_id = "civiclens-test"
+
+[functions.check-fix-assess]
+verify_jwt = true
